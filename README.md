@@ -1,4 +1,6 @@
-## Realização do teste tecnico
+## 📌 Realização do teste tecnico para a Target Sistemas
+
+🛠️ Linguagem utilizada: python
 
 
 
